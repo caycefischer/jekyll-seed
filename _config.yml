@@ -26,3 +26,10 @@ typekit: ''
 analytics:
   google: ''
   # add your own here! gaug.es, etc
+
+# prose config
+prose:
+  rooturl: '_posts'
+  media: 'media'
+  # siteurl: 'http://heistmade.com'
+  # relativeLinks: 'http://heistmade.com/links.jsonp'
